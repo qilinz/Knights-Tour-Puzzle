@@ -61,7 +61,7 @@ By running the program:
 
 3. Users can withdraw their last move by pressing `backspace`
 
-![](Interface/movie2.gif)
+<img src="https://github.com/qilinz/Knights-Tour-Puzzle-Solver/blob/main/Interface/movie2.gif" width="60%" height="60%">
 
 ## How to set up
 To play text version:
