@@ -57,7 +57,7 @@ By running the program:
 
 2. Board is then set up and users can play the game by clicking the squares. Next possible moves are presented with the count of the 2-step further moves.
 
-![](Interface/movie1.gif)
+<img src="https://github.com/qilinz/Knights-Tour-Puzzle-Solver/blob/main/Interface/movie1.gif" width="80%" height="80%">
 
 3. Users can withdraw their last move by pressing `backspace`
 
