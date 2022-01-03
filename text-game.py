@@ -77,7 +77,7 @@ def find_solution(game_board, x_pos, y_pos):
 # ----------------------------- 1. Create the board.py ---------------------------------- #
 while True:
     try:
-        X, Y = [int(num) for num in input("Enter your board.py.py dimensions: ").split()]
+        X, Y = [int(num) for num in input("Enter your board dimensions: ").split()]
     except ValueError or TypeError:
         print("Invalid dimensions!")
     else:

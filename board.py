@@ -47,7 +47,6 @@ class Board:
         possible_moves.sort(reverse=True)
         self.possible_moves = [(x, y) for count, x, y in possible_moves]
 
-
     def count_possible_move(self, x_pos, y_pos):
         count = 0
         for x, y in MOVE_RULES:
