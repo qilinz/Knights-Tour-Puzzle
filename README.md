@@ -8,3 +8,6 @@ The Knight’s Tour is a fun puzzle where you move the knight so that it visits 
 ## Funtions
 1. Users can play the game by themselves
 2. Users can check solution directly.  
+
+## How to set up
+Please downloads both files and run [main.py](https://github.com/qilinz/Knights-Tour-Puzzle/blob/main/main.py)
