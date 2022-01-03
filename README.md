@@ -53,9 +53,10 @@ This version of game is built using pygame and tkinter modules. Users can play t
 By running the program:
 1. Users will be asked to define the board dimension.
 ![image1.png](Interface/image1.png)
-2. Board is then set up and users can play the game by clicking the squares.
+2. Board is then set up and users can play the game by clicking the squares. Next possible moves are presented with the count of the 2-step further moves.
 
 ![](Interface/movie1.gif)
+
 3. Users can withdraw their last move by pressing `backspace`
 
 ![](Interface/movie2.gif)
