@@ -14,7 +14,7 @@ The knight is a chess piece. It moves in an L-shape and can jump over other piec
 - You lose if you fail to visit every square only once without revisiting it.
 
 
-## Version
+## Versions
 ### Text version
 Users will be asked three questions regarding puzzle dimensions, start position, and game mode (play or check solution).
 ####  Play the game:
