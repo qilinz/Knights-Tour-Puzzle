@@ -55,11 +55,10 @@ By running the program:
 ![image1.png](Interface/image1.png)
 2. Board is then set up and users can play the game by clicking the squares.
 
-   <img src="https://github.com/qilinz/Knights-Tour-Puzzle-Solver/Interface/movie1.gif" width="360" height="360"/>
-
+![](Interface/movie1.gif)
 3. Users can withdraw their last move by pressing `backspace`
 
-   <img src="https://github.com/qilinz/Knights-Tour-Puzzle-Solver/Interface/movie2.gif" width="360" height="360"/>
+![](Interface/movie2.gif)
 
 ## How to set up
 To play text version:
