@@ -52,7 +52,9 @@ Here's the solution!
 This version of game is built using pygame and tkinter modules. Users can play the game through mouse and keyboard.
 By running the program:
 1. Users will be asked to define the board dimension.
-![image1.png](Interface/image1.png)
+
+<img src="https://github.com/qilinz/Knights-Tour-Puzzle-Solver/blob/main/Interface/image1.png" width="60%" height="60%">
+
 2. Board is then set up and users can play the game by clicking the squares. Next possible moves are presented with the count of the 2-step further moves.
 
 ![](Interface/movie1.gif)
